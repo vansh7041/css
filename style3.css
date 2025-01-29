@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+#header{
+    position: fixed;
+}
+
+a{
+    color: black;
+    font-size: 50px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+hr{
+    border-style: dotted;
+    height: 5px;
+    color: black;
+}
